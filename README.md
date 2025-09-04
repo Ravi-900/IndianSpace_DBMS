@@ -30,29 +30,7 @@ The schema includes tables such as:
 - `GroundStations`
 - Relationships between these entities are managed via foreign keys.
 
-![ER Diagram](ScreenShots/ER_Diagram.png)
-
-## Screenshots
-
-### 1. Home Page
-
-![Home Page](ScreenShots/HomePage.png)
-
-### 2. Satellite Data Entry
-
-![Satellite Entry](ScreenShots/SatelliteEntry.png)
-
-### 3. Mission Report
-
-![Mission Report](ScreenShots/MissionReport.png)
-
-### 4. SQL Query Example
-
-![SQL Query](ScreenShots/SQLQuery.png)
-
-### 5. Trigger Execution
-
-![Trigger Example](ScreenShots/TriggerExecution.png)
+![ER Diagram](Screenshots/ER_Diagram.png)
 
 ## How to Run
 
